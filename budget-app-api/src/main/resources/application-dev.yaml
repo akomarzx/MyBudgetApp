@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: budget-app-api
+  datasource:
+    url: jdbc:mysql://localhost:3306/BudgetApp
+    username: Budget_App_User
+    password: BudgetPassword
